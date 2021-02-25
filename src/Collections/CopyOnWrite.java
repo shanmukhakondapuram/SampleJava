@@ -10,6 +10,7 @@ public class CopyOnWrite {
 		cowal.add("Shan1");
 		cowal.add("Shan2");
 		System.out.println(cowal.get(2));
+		//added few comments
 		
 
 	}
